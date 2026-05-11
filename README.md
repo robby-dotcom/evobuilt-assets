@@ -1,2 +1,20 @@
-# evobuilt-assets
-Static asset hosting for EvoBuilt - team headshots, logos, signature images
+# EvoBuilt Assets
+
+Static asset hosting for EvoBuilt — team headshots, logos, and signature images.
+
+Served via GitHub Pages at: https://robby-dotcom.github.io/evobuilt-assets/
+
+## Structure
+
+```
+headshots/    - Team headshots (colour-graded, 450x450)
+logos/        - EvoBuilt logos, awards, social icons
+```
+
+## Usage
+
+Reference images via stable URLs:
+- `https://robby-dotcom.github.io/evobuilt-assets/headshots/Robby.jpg`
+- `https://robby-dotcom.github.io/evobuilt-assets/logos/evobuilt-logo.png`
+
+Used in the EvoBuilt Email Signature Generator.
